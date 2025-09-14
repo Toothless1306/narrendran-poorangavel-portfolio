@@ -1,7 +1,7 @@
 {
 	"name": "narrendran-poorangavel-portfolio",
 	"version": "0.1.0",
-	"homepage": "https://yourusername.github.io/narrendran-poorangavel-portfolio",
+	"homepage": "https://toothless1306.github.io/narrendran-poorangavel-portfolio",
 	"private": true,
 	"dependencies": {
 		"@testing-library/dom": "^10.4.1",
