@@ -70,27 +70,27 @@ const Portfolio = () => {
 		{
 			title: 'HTML-5 The Language',
 			year: '2020',
-			link: 'https://drive.google.com/file/d/your-file-id-1/view?usp=sharing',
+			link: 'https://drive.google.com/file/d/1_MD62UtKbR8rQsQRhxj0kXctPwt-nMSZ/view?usp=sharing',
 		},
 		{
 			title: 'Network Engineering Cisco',
 			year: '2019',
-			link: 'https://drive.google.com/file/d/your-file-id-2/view?usp=sharing',
+			link: 'https://drive.google.com/file/d/10wxsK-hFYHHy6R9qcRyvHOkV9nzJ0rV7/view?usp=sharing',
 		},
 		{
 			title: 'Node.js - Infosys Springboard',
 			year: '2022',
-			link: 'https://drive.google.com/file/d/your-file-id-3/view?usp=sharing',
+			link: 'https://drive.google.com/file/d/1e2_hjRo5eKUOz8CsLSYge9QIOw_u1AGX/view?usp=sharing',
 		},
 		{
 			title: 'Angular - Infosys Springboard',
 			year: '2022',
-			link: 'https://drive.google.com/file/d/your-file-id-4/view?usp=sharing',
+			link: 'https://drive.google.com/file/d/1ouai83OuIsdGg-hlxp5UR18V70kYyK1-/view?usp=sharing',
 		},
 		{
 			title: 'MongoDB Essentials - Infosys Springboard',
 			year: '2022',
-			link: 'https://drive.google.com/file/d/your-file-id-5/view?usp=sharing',
+			link: 'https://drive.google.com/file/d/1swAOvqoS30G1wRx6_zmKBaHNdm4g-pXm/view?usp=sharing',
 		},
 	];
 
