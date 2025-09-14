@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/narrendran-poorangavel-portfolio/static/css/main.edeb2b90.css",
+    "main.js": "/narrendran-poorangavel-portfolio/static/js/main.87e5fc29.js",
+    "static/js/453.8d79a14e.chunk.js": "/narrendran-poorangavel-portfolio/static/js/453.8d79a14e.chunk.js",
+    "index.html": "/narrendran-poorangavel-portfolio/index.html",
+    "main.edeb2b90.css.map": "/narrendran-poorangavel-portfolio/static/css/main.edeb2b90.css.map",
+    "main.87e5fc29.js.map": "/narrendran-poorangavel-portfolio/static/js/main.87e5fc29.js.map",
+    "453.8d79a14e.chunk.js.map": "/narrendran-poorangavel-portfolio/static/js/453.8d79a14e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edeb2b90.css",
+    "static/js/main.87e5fc29.js"
+  ]
+}
